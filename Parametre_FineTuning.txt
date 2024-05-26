@@ -1,0 +1,32 @@
+MLP 2 Layer parametres 
+
+Learning Rate = 1e-3
+Hidden Dimension = 64
+Drop Out = 0.2
+Weight Decay = 1e-6
+
+MLP 3 Layer 
+
+Learning Rate = 1e-3
+Hidden Dimension 1 = 64
+Hidden Dimension 2 = 64
+Drop Out = 0.2
+Weight Decay = 1e-8
+
+2 Layer MLP 
+size 3 -Average Test Set MSE: 0.0001566
+        Average Test Set MSE at km: 0.02053
+
+size 4 - Average Test Set MSE: 0.0001537
+         Average Test Set MSE at km: 0.02015
+
+size 9 - Average Test Set MSE: 0.000162
+         Average Test Set MSE at km: 0.02124
+
+3 Layer MLP
+
+size 3 - Average Test Set MSE: 0.000151
+         Average Test Set MSE at km: 0.01979
+size 4 - Average Test Set MSE: 0.0001534
+         Average Test Set MSE at km: 0.02011
+
